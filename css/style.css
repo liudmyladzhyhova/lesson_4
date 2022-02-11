@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Mono&display=swap");
+
+
+@font-face {
+	font-family: "Montserrat";
+	src: url("../fonts/Montserrat-Italic.woff2") format("woff2"), url("../fonts/Montserrat-Italic.woff") format("woff");
+	font-weight: 400;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Montserrat";
+	src: url("../fonts/Montserrat-Regular.woff2") format("woff2"), url("../fonts/Montserrat-Regular.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Montserrat";
+	src: url("../fonts/Montserrat-Bold.woff2") format("woff2"), url("../fonts/Montserrat-Bold.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+body {
+	font-family: "Montserrat", sans-serif;
+	font-size: 20px;
+}
+.first {
+	text-align: center;
+}
+.title {
+	font-family: "DM Mono", sans-serif;
+	font-size: 40px;
+	color: grey;
+}
+.title1 {
+	font-family: "DM Mono", sans-serif;
+	font-size: 25px;
+	color: olive;
+	letter-spacing: 5px;
+}
+.underline {
+	text-decoration: underline;
+	text-transform: uppercase;
+	color: olivedrab;
+}
+
+.overline {
+	text-decoration: overline;
+	color: crimson;
+}
+.line-through {
+	text-decoration: line-through;
+	text-transform: lowercase;
+	color: green;
+	word-spacing: 5px;
+}
+.shadow {
+	text-shadow: 10px 10px 10px rgb(128, 128, 0);
+}
+.second {
+	line-height: 1.25;
+	text-indent: 20px;
+}
+.weight {
+	font-weight: 700;
+}
+.italic {
+	font-style: italic;
+}
+.align {
+	text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
